@@ -19,7 +19,7 @@
 ### To make the program work ordinarily, needs some python packages
 
 ### first activate your conda virtual environment like this
-### source activate <env_name>
+source activate <env_name>
 
 ### Then install packages: 
 ### To control dataframe
